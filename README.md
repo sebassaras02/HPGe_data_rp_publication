@@ -33,6 +33,8 @@ Where:
 - E: is the activity of the radioactive source
 - P: is the probability of the emission
 
+How a HPGe detector looks like:
+
 ![P-type-400](https://user-images.githubusercontent.com/82113558/189552768-dd2538f3-13c4-468e-a219-9d8dfbe7f3d9.jpg)
                 
 ### FlowChart of the Data Treatment
